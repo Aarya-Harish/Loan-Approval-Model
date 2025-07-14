@@ -62,6 +62,6 @@ Loan-Approval-ML-Model/
 - Optimizations:
   - Hyperparameter tuning with `GridSearchCV`
   - `cross_val_score` for K-fold accuracy
-- Accuracy: **~70–74%**
+- Accuracy: **~75–80%**
 
 
