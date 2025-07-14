@@ -5,7 +5,8 @@ A **Machine Learning** and **Streamlit** powered web application that predicts w
 This project uses the dataset from Kaggle:  
 🔗 [Loan Approval Prediction Data – by Armanjit Singh](https://www.kaggle.com/datasets/armanjitsingh/loan-approval-prediction-data)
 
----
+
+---  
 
 ## 🚀 Features
 
