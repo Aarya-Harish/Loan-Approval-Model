@@ -66,3 +66,6 @@ Loan-Approval-ML-Model/
 - Accuracy: **~75–80%**
 
 
+  Deployed Model Link - https://loan-approval-model-sharish.streamlit.app/
+
+
